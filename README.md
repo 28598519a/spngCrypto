@@ -1,2 +1,5 @@
 # spngCrypto
-a tool can decrypt spng file to png file
+
+解裝甲少女spng檔案
+
+Required : .net framework 4.0 及 Visual Studio C++ 2017
